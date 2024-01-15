@@ -1,5 +1,9 @@
 # React + Vite
 
+This is a transaction tracker application which mostly focuses on how data is send and received over backend and this uses atlas mongosedb as database of the application 
+
+*You need to add you own mongodb atlas key in api/.env file to run database*
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
